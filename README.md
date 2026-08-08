@@ -2,7 +2,7 @@
 
 Sitio personal de una sola página, construido en HTML/CSS/JS puro (sin frameworks ni dependencias) y publicado con GitHub Pages.
 
-🔗 **Sitio en vivo:** `https://<tu-usuario>.github.io/<nombre-del-repo>/`
+🔗 **Sitio en vivo:** `https://MBL309.github.io/Portafolio/`
 
 ## Contenido
 
